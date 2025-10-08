@@ -145,7 +145,7 @@ The Python synchronization script:
 ---
 
 ### 2. Synchronization Notebook (`sync_videos.py`)  
-Run the synchronization script or notebook cell to process all videos and detect the alignment offsets.  
+Run the synchronization script or notebook cell to process all videos and detect the alignment offsets.  For the notebook we may need to specify the number of flashes that we see in the original video.
 
 ---
 
@@ -159,6 +159,8 @@ Video 2: shift by 35 frames
 Video 3: shift by 52 frames
 Saved frame shifts to camera_shifts.npy
 ```
+The output graph will look like this: 
+<img width="1389" height="1389" alt="image" src="https://github.com/user-attachments/assets/25f3a9ba-506c-44a7-b534-29035a993178" />
 
 ---
 
