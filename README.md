@@ -146,7 +146,7 @@ The Python synchronization script:
 
 ---
 
-### 2. Synchronization Notebook (`synchronize_video.ipynb`)  
+### 2. Synchronization Notebook (`synchronize_videos.ipynb`)  
 Run the synchronization script or notebook cell to process all videos and detect the alignment offsets.  For the notebook we may need to specify the number of flashes that we see in the original video.
 
 ---
