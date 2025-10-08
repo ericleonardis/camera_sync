@@ -19,6 +19,8 @@ This protocol describes how to synchronize multiple camera recordings based on f
 
 This document is written for undergraduate research assistants and assumes no prior experience with command-line or Python tools.  
 
+Before beginning make sure that you collected video from multiple cameras and you flashed the lights in the room on and off multiple times. Make sure your videos have the full light flashing event visibile from all cameras. 
+
 ---
 
 ## PART I: Environment Setup  
