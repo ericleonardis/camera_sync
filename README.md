@@ -164,6 +164,8 @@ Saved frame shifts to camera_shifts.npy
 The output graph will look like this: 
 <img width="1389" height="1389" alt="image" src="https://github.com/user-attachments/assets/25f3a9ba-506c-44a7-b534-29035a993178" />
 
+Make sure after alignment that all of the averaged brightness signals align and there are none that appear out of sync. If so then there was some issue with the peak detection and alignment. 
+
 ---
 
 ### 4. Convert Frame Shifts to Seconds  
