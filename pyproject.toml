@@ -11,5 +11,11 @@ dependencies = [
     "tqdm>=4.65",
 ]
 
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["."]
+
 [project.scripts]
 sync-videos = "sync_videos:main"
